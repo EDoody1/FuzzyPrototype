@@ -16,6 +16,10 @@
 		{
 			"Name": "AdvancedSteamSessions",
 			"Enabled": true
+		},
+		{
+			"Name": "VictoryUMG",
+			"Enabled": true
 		}
 	]
 }
