@@ -19,7 +19,7 @@
 		},
 		{
 			"Name": "VictoryUMG",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
